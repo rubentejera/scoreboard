@@ -3,7 +3,7 @@
 
 ### Install
 ```
-bundle install
+bundle install --binstubs
 ```
 ### Execute Script
 ```
